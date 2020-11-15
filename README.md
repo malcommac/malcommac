@@ -1,5 +1,3 @@
-### 👋 Hi there
-
 I’m a passionate Software Engineer with deep knowledge mobile ecosystem.  
 I started programming on macOS in 2000 and iOS on 2007. I'm also passionate working in backend environments with Node and JS.  
 Since 2018 I'm leading the Mobile Team at [Immobiliare.it](https://labs.immobiliare.it), the #1 Real Estate company in Italy.  
