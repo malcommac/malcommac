@@ -42,9 +42,10 @@ ScrollStackController is a class you can use to create complex layouts using scr
 
 More:
 
-- [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack)
+- [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) Fast & Lightweight MsgPack Serializer & Deserializer for Swift
 - [SwiftScanner](https://github.com/malcommac/SwiftScanner) String Scanner in pure Swift (supports unicode)
 - [SwiftUnistroke](https://github.com/malcommac/SwiftUnistroke) $1 Unistroke Gesture Recognizer in Swift
 - [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with UITableViews & UICollectionView
 - [SwiftSimplify](https://github.com/malcommac/SwiftSimplify) High-performance Swift polyline simplification library - Simplify.JS for Swift
 - [UAParserSwift](https://github.com/malcommac/UAParserSwift) Lightweight User-Agent String Parser (Port of ua-parser.js in Swift)
+- [UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions) Animated transitions for UIWindow's rootViewController property
