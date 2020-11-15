@@ -2,11 +2,11 @@
 
 I’m a passionate Software Engineer with deep knowledge mobile ecosystem.  
 I started programming on macOS in 2000 and iOS on 2007. I'm also passionate working in backend environments with Node and JS.  
-Since 2018 **I'm leading the Mobile Team at [Immobiliare.it](https://labs.immobiliare.it)**, the #1 Real Estate company in Italy.  
+Since 2018 I'm leading the Mobile Team at [Immobiliare.it](https://labs.immobiliare.it), the #1 Real Estate company in Italy.  
 I'm in love with simple and good design, in my life I'm a strongly follower of wabi-sabi.
 
 - 🌍 [My Website](https://www.danielemargutti.com)
-- 🐦 Follow me on [Twitter](http://twitter.com/danielemargutti)
+- 🐦 [Follow me on Twitter](http://twitter.com/danielemargutti)
 
 ## ❤️ Support OSs
 *Hi fellow developer!*  
