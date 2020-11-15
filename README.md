@@ -40,10 +40,10 @@ ScrollStackController is a class you can use to create complex layouts using scr
 
 More:
 
-- [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) Fast & Lightweight MsgPack Serializer & Deserializer for Swift
-- [SwiftSimplify](https://github.com/malcommac/SwiftSimplify) High-performance Swift polyline simplification library - Simplify.JS for Swift
-- [UAParserSwift](https://github.com/malcommac/UAParserSwift) Lightweight User-Agent String Parser (Port of ua-parser.js in Swift)
+- [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) MsgPack Serializer & Deserializer
+- [SwiftSimplify](https://github.com/malcommac/SwiftSimplify) High-performance polyline simplification library - port of simoplify.js
+- [UAParserSwift](https://github.com/malcommac/UAParserSwift) User-Agent String Parser - port of ua-parser.js
 - [UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions) Animated transitions for UIWindow's rootViewController property
-- *(Archived)* [SwiftScanner](https://github.com/malcommac/SwiftScanner) String Scanner in pure Swift (supports unicode)
+- *(Archived)* [SwiftScanner](https://github.com/malcommac/SwiftScanner) Unicode compliant string scanner
 - *(Archived)* [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with UITableViews & UICollectionView
-- *(Archived)* [SwiftUnistroke](https://github.com/malcommac/SwiftUnistroke) $1 Unistroke Gesture Recognizer in Swift
+- *(Archived)* [SwiftUnistroke](https://github.com/malcommac/SwiftUnistroke) $1 Unistroke Gesture Recognizer
