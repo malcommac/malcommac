@@ -46,4 +46,4 @@ More:
 - [UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions) Animated transitions for UIWindow's rootViewController property
 - *(Archived)* [SwiftScanner](https://github.com/malcommac/SwiftScanner) String Scanner in pure Swift (supports unicode)
 - *(Archived)* [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with UITableViews & UICollectionView
-- *(Archive)* [SwiftUnistroke](https://github.com/malcommac/SwiftUnistroke) $1 Unistroke Gesture Recognizer in Swift
+- *(Archived)* [SwiftUnistroke](https://github.com/malcommac/SwiftUnistroke) $1 Unistroke Gesture Recognizer in Swift
