@@ -15,6 +15,14 @@ You know, maintaing and developing tools consumes resources and time. While I en
 
 ## 🚀 Open Source
 
+### [RealHTTP](https://github.com/immobiliare/RealHTTP)
+RealHTTP is lightweight and complete http client made for Swift. It's made with async/await in mind and it sports a typesafe yet simple syntax. We are currently using it in Immobiliare.it official client.
+
+### [RealFlags](https://github.com/immobiliare/RealFlags)
+RealFlags makes it easy to configure feature flagsin your codebase.
+It's designed for Swift and provides a simple and elegant abstraction layer over multiple providers you can query with your own priority.
+It also comes with an handy UI tool to browse and alter values directly at runtime!
+
 ### [SwiftDate](https://github.com/malcommac/SwiftDate)
 With over 3 milion of downloads on CocoaPods, since 2015 SwiftDate is the #1 toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift. Fully documented with 90% of code coverage this is the preferred solution to work with datetime on iOS, but it also compatible with macOS and Linux operating systems (partially).
 
@@ -31,23 +39,3 @@ SwiftRichString is a library which allows to create and manipulate attributed st
 ### [ScrollStackController](https://github.com/malcommac/ScrollStackController)
 Create complex scrollable layout using UIViewControllers or plain UIViews and simplify your code!  
 ScrollStackController is a class you can use to create complex layouts using scrollable UIStackView but where each row is handled by a separate UIViewController; this allows you to keep a great separation of concerns.
-
-## 👩‍💻 Open Source at ImmobiliareLabs
-
-I'm the author of several open-source libraries at [ImmobiliareLabs](https://github.com/immobiliare), the IT department of Immobiliare.it
-
-## [RealFlags](https://github.com/immobiliare/RealFlags)
-A feature flagging framework made for Swift; it provides a simple and elegant abstraction layer over multiple providers; it uses Property Wrappers, DynamicMemberLookup and Mirror to give the best simple+powerful experience.
-
-## [RealHTTP](https://github.com/immobiliare/RealHTTP)
-It's an HTTP library based upon URLSession with complete support of the new Async/Await. It also sports a fantastic mock service for testing!
-
-More:
-
-- [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) MsgPack Serializer & Deserializer
-- [SwiftSimplify](https://github.com/malcommac/SwiftSimplify) High-performance polyline simplification library - port of simoplify.js
-- [UAParserSwift](https://github.com/malcommac/UAParserSwift) User-Agent String Parser - port of ua-parser.js
-- [UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions) Animated transitions for UIWindow's rootViewController property
-- *(Archived)* [SwiftScanner](https://github.com/malcommac/SwiftScanner) Unicode compliant string scanner
-- *(Archived)* [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with UITableViews & UICollectionView
-- *(Archived)* [SwiftUnistroke](https://github.com/malcommac/SwiftUnistroke) $1 Unistroke Gesture Recognizer
