@@ -1,7 +1,7 @@
 Hello 👋
-I'm Daniele and I work as Mobile Tech Lead Manager at [ImmobiliareLabs](http://labs.immobiliare.it), the IT dept of [Immobiliare.it](http://www.immobiliare.it).
-I'm a passionate software engineer with a love for minimalism, product design and sushi. 
-I started programming on macOS in 2000 and iOS on 2007.
+I'm Daniele and I work as Mobile Tech Lead Manager at [ImmobiliareLabs](http://labs.immobiliare.it), the IT dept of [Immobiliare.it](http://www.immobiliare.it).  
+I'm a passionate software engineer with a love for minimalism, product design and sushi.  
+I started programming on macOS in 2000 and iOS on 2007.  
 
 - 🌍 [Site](https://www.danielemargutti.com)
 - 🐦 [Twitter](http://twitter.com/danielemargutti)
