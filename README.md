@@ -3,9 +3,9 @@ I'm Daniele and I work as Mobile Tech Lead Manager at [ImmobiliareLabs](http://l
 I'm a passionate software engineer with a love for minimalism, product design and sushi.  
 I started programming on macOS in 2000 and iOS on 2007.  
 
-- 🌍 [Site](https://www.danielemargutti.com)
-- 🐦 [Twitter](http://twitter.com/danielemargutti)
-- 💼 [LinkedIn](http://linkedin.com/in/daniele.margutti)
+[![](https://img.shields.io/badge/DanieleMargutti.com-informational?style=for-the-badge&color=6b6b6b)](https://www.danielemargutti.com)
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/danielemargutti)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](http://linkedin.com/in/daniele.margutti)
 
 <img src="https://github-readme-stats.vercel.app/api?username=malcommac&show_icons=true&count_private=true" alt="malcommac" />
 
