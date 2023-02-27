@@ -23,6 +23,9 @@ RealFlags makes it easy to configure feature flags in your codebase.
 ### [Hydra](https://github.com/malcommac/Hydra)
 Before async await there was promises. Hydra is a fast full-featured promise library for Swift.
 
+### [GitLabSwift](https://github.com/malcommac/GitLabSwift)
+Async/await client to interact with GitLab API v4 with Swift
+
 ### [SwiftDate](https://github.com/malcommac/SwiftDate)
 With over 3 milion of downloads on CocoaPods, since 2015 SwiftDate is the #1 toolkit to parse, validate, manipulate, compare and display dates.
 
